@@ -1,0 +1,14 @@
+Customer Name: Sheroni
+Bakery Item Name: Bun
+Bakery Item Category: Egg
+Item quantity: 10
+Total of Item: 1000
+Payment Bill Number: 12345
+Payment Bill Date: 20
+Customer Name: Sheroni
+Bakery Item Name: Bun
+Bakery Item Category: Egg
+Item quantity: 10
+Total of Item: 1000
+Payment Bill Number: 12345
+Payment Bill Date: 20

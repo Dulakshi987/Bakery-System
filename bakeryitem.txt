@@ -1,0 +1,6 @@
+
+New Item Name: Cake
+Category: Chocolate
+Available Bakery Item: 10
+New Bakery Item Price: 500
+

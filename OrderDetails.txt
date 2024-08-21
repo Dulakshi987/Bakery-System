@@ -1,0 +1,7 @@
+Order Item: Bun
+Customer Name:Sheroni 
+Order Date:20-10-2023
+Order Time:8AM
+Order RequiredDate:20-10-2023
+Order Number: 12345
+Order Price: 1000

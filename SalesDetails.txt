@@ -1,0 +1,7 @@
+Customer_Name:Sheroni
+Sales Item Name:Bun
+Item Price:100
+Item Catagory:Egg
+Item qunatity:10
+
+

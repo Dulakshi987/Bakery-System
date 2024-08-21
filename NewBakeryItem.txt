@@ -1,0 +1,4 @@
+New Item Name: Burger
+Category: Chiken
+Available Bakery Item: 10
+New Bakery Item Price: 400
